@@ -2,6 +2,7 @@
 Qualification project for SUSU
 
 Used ensemble models: Random Forest, AdaBoost
+
 Used dataset: CIC-IDS17
 
 Train/test split: 80/20
